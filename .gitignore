@@ -2,3 +2,5 @@
 /nextcloud/nextclouddb
 /nextcloud/data
 /nextcloud/config
+/nextcloud/custom_apps
+nextcloud/redis/dump.rdb
